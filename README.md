@@ -11,3 +11,5 @@
 ## 帮助
 
 1. 厦门路网数据为从https://overpass-api.de/api/map?bbox=117.8579,24.3915,118.4278,24.9412 导出的厦门市开源地图文件，并用OsmShaper的小工具转换提取出的厦门最新路网数据文件
+
+2. 数据样本下载地址：https://data.xm.gov.cn/opendata-contest/#/competition_data
